@@ -5,7 +5,7 @@ This folder contains the files for the AMP Story.
 ## Files included
 
 ```text
-amp-booky
+amp-book-story
   ├── assets/
   │   └──  images for story
   ├── bookend.json   
