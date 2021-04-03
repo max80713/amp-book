@@ -1,19 +1,14 @@
-# AMP Story tutorial "Joy of Pets"
+# AMP Story
 
-This folder contains the files for the "Create a visual AMP Story" tutorial.
+This folder contains the files for the AMP Story.
 
 ## Files included
 
 ```text
 amp-pets-story
   ├── assets/
-  │   └──  images, video, audio for story
+  │   └──  images for story
   ├── bookend.json   
-  ├── pets.html            --- Incomplete version
-  ├── pets-completed.html  --- Completed version
+  ├── book.html
   └── README.md
 ```
-
-## License
-
-This tutorial is licensed under [Apache License, Version 2.0](https://github.com/ampproject/docs/blob/master/LICENSE).
